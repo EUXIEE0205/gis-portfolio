@@ -11,7 +11,7 @@
 
 ---
 
-## 📂 Featured Projects
+##  Featured Projects
 
 ### 1. Smart Farm Site Analysis — UC Merced *(In Progress)*
 
@@ -29,13 +29,9 @@ A multi-checkpoint geospatial analysis of an agricultural Smart Farm site. The p
 - **Inverse Distance Weighting (IDW) interpolation** of point soil samples to produce continuous soil-property surfaces
 - **Scatterplot analysis** to investigate relationships between NDVI and soil variables
 
-📷 *Screenshots:*
+*Screenshots:*
 
-![Smart Farm — Project Setup](./images/smartfarm-setup.png)
-![Smart Farm — NDVI](./images/smartfarm-ndvi.png)
-![Smart Farm — IDW](./images/smartfarm-idw.png)
 
----
 
 ### 2. Bigfoot Species Distribution Model — ENGR 180 Lab 5
 
@@ -50,14 +46,12 @@ A species distribution model (SDM) predicting suitable habitat for *Sasquatch* s
 - Troubleshot **linked Map Frame** behavior and refined symbology, legend, and labels for a publication-ready figure
 - Wrote up the lab report addressing model assumptions, predictor importance, and limitations of presence-only data
 
-📷 *Screenshots:*
+*Screenshots:*
 
-![Bigfoot SDM — Prediction Map](./images/bigfoot-prediction.png)
-![Bigfoot SDM — Layout](./images/bigfoot-layout.png)
 
 ---
 
-## 🎯 Why This Translates to QGIS
+##  Why This Translates to QGIS
 
 ArcGIS Pro and QGIS are **conceptually 1:1** for the operations in these projects:
 
@@ -74,7 +68,7 @@ The **spatial reasoning, projection awareness, and analytical workflow** transfe
 
 ---
 
-## 📝 Notes
+##  Notes
 
 - This portfolio is actively updated as coursework progresses.
 - Some screenshots are simplified for sharing; full project files are available on request and subject to course academic integrity policies.
