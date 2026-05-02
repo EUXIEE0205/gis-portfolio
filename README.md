@@ -31,7 +31,9 @@ A multi-checkpoint geospatial analysis of an agricultural Smart Farm site. The p
 - **Scatterplot analysis** to investigate relationships between NDVI and soil variables
 
 *Screenshots:*
-<img width="3300" height="2550" alt="farm_overview" src="https://github.com/user-attachments/assets/559ebb4a-198a-4600-9237-52c31befb44e"
+<img width="3300" height="2550" alt="barn_siting_map" src="https://github.com/user-attachments/assets/b2586f65-7f8f-4357-a9d9-e1b990e99d7e" />
+<img width="3300" height="2550" alt="farm_overview" src="https://github.com/user-attachments/assets/8dafa72f-8eda-4ac4-b13a-c1b47857fa9e" />
+
 
 
 
@@ -48,10 +50,6 @@ A species distribution model (SDM) predicting suitable habitat for *Sasquatch* s
 - Troubleshot **linked Map Frame** behavior and refined symbology, legend, and labels for a publication-ready figure
 - Wrote up the lab report addressing model assumptions, predictor importance, and limitations of presence-only data
 
-*Screenshots:*
-
-
----
 
 ##  Why This Translates to QGIS
 
