@@ -65,7 +65,3 @@ ArcGIS Pro and QGIS are **conceptually 1:1** for the operations in these project
 | ModelBuilder | Graphical Modeler |
 
 The **spatial reasoning, projection awareness, and analytical workflow** transfer directly. I'm comfortable picking up QGIS's specific UI on a short ramp.
-
----
-
-*Last updated: [5] 2026*
