@@ -33,7 +33,7 @@ A multi-checkpoint geospatial analysis of an agricultural Smart Farm site. The p
 
 
 
-### 2. Bigfoot Species Distribution Model — ENGR 180 Lab 5
+### 2. Bigfoot Species Distribution Model
 
 **Tool:** ArcGIS Pro · **Method:** Random Forest
 
