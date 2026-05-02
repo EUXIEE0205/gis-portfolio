@@ -31,7 +31,7 @@ A multi-checkpoint geospatial analysis of an agricultural Smart Farm site. The p
 - **Scatterplot analysis** to investigate relationships between NDVI and soil variables
 
 *Screenshots:*
-<img width="3300" height="2550" alt="farm_overview" src="https://github.com/user-attachments/assets/559ebb4a-198a-4600-9237-52c31befb44e" />![Uploading barn_siting_map.png…]()
+<img width="3300" height="2550" alt="farm_overview" src="https://github.com/user-attachments/assets/559ebb4a-198a-4600-9237-52c31befb44e"
 
 
 
