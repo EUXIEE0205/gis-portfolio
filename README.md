@@ -68,11 +68,4 @@ The **spatial reasoning, projection awareness, and analytical workflow** transfe
 
 ---
 
-##  Notes
-
-- This portfolio is actively updated as coursework progresses.
-- Some screenshots are simplified for sharing; full project files are available on request and subject to course academic integrity policies.
-
----
-
-*Last updated: [Month] 2026*
+*Last updated: [5] 2026*
